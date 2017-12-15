@@ -4,16 +4,16 @@
       <meta charset="UTF-8">
       <title>GoldenView - Test01</title>
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      <link rel="shortcut icon" href="http://goldenview-novo/img/favicon.png"/>
-      <link rel="stylesheet" href="http://goldenview-novo/css/bootstrap.min.css"> 
-      <link rel="stylesheet" href="http://goldenview-novo/css/webstyle.css"> 
+      <link rel="shortcut icon" href="img/favicon.png"/>
+      <link rel="stylesheet" href="css/bootstrap.min.css"> 
+      <link rel="stylesheet" href="css/webstyle.css"> 
    </head>
    <body id="idgbody">
 
       <!--MENU-->   
       <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
          <div class="container">
-            <a class="navbar-brand" href="#"><img title="GoldenView" alt="[Logo GoldenView]" src="http://goldenview-novo/img/logo.png"/></a>
+            <a class="navbar-brand" href="#"><img title="GoldenView" alt="[Logo GoldenView]" src="img/logo.png"/></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#idgnavbar">
                <span class="navbar-toggler-icon"></span>
             </button>
@@ -43,7 +43,7 @@
                      <div class="col-lg-4">
                         <div class="card text-center bg-dark card-form">
                            <div class="card-body">
-                              <img class="my-2" title="GoldenView" alt="[Logo GoldenView]" src="http://goldenview-novo/img/logo.png"/>
+                              <img class="my-2" title="GoldenView" alt="[Logo GoldenView]" src="img/logo.png"/>
                               <p>Informe usuário e senha para acessar o sistema GDView</p>
                               <form>
                                  <div class="form-group">
@@ -129,8 +129,8 @@
       </div>      
 
       <!--SCRIPTS-->   
-      <script src="http://goldenview-novo/js/jquery.min.js"></script>
-      <script src="http://goldenview-novo/js/popper.min.js"></script>
-      <script src="http://goldenview-novo/js/bootstrap.min.js"></script>
+      <script src="js/jquery.min.js"></script>
+      <script src="js/popper.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
    </body>
 </html>
